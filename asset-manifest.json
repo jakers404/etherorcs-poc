@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/etherorcs-poc/static/css/main.d34e4c46.chunk.css",
-    "main.js": "/etherorcs-poc/static/js/main.eaaf7a0d.chunk.js",
-    "main.js.map": "/etherorcs-poc/static/js/main.eaaf7a0d.chunk.js.map",
+    "main.js": "/etherorcs-poc/static/js/main.73ce4406.chunk.js",
+    "main.js.map": "/etherorcs-poc/static/js/main.73ce4406.chunk.js.map",
     "runtime-main.js": "/etherorcs-poc/static/js/runtime-main.bfbbbfbc.js",
     "runtime-main.js.map": "/etherorcs-poc/static/js/runtime-main.bfbbbfbc.js.map",
     "static/js/2.a7dac4e6.chunk.js": "/etherorcs-poc/static/js/2.a7dac4e6.chunk.js",
@@ -38,6 +38,6 @@
     "static/js/runtime-main.bfbbbfbc.js",
     "static/js/2.a7dac4e6.chunk.js",
     "static/css/main.d34e4c46.chunk.css",
-    "static/js/main.eaaf7a0d.chunk.js"
+    "static/js/main.73ce4406.chunk.js"
   ]
 }
