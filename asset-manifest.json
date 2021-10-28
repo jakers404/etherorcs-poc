@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/etherorcs-poc/static/css/main.6d295eec.chunk.css",
-    "main.js": "/etherorcs-poc/static/js/main.770aef14.chunk.js",
-    "main.js.map": "/etherorcs-poc/static/js/main.770aef14.chunk.js.map",
+    "main.css": "/etherorcs-poc/static/css/main.7b608690.chunk.css",
+    "main.js": "/etherorcs-poc/static/js/main.ab0679ed.chunk.js",
+    "main.js.map": "/etherorcs-poc/static/js/main.ab0679ed.chunk.js.map",
     "runtime-main.js": "/etherorcs-poc/static/js/runtime-main.b3426708.js",
     "runtime-main.js.map": "/etherorcs-poc/static/js/runtime-main.b3426708.js.map",
     "static/js/2.e72904b4.chunk.js": "/etherorcs-poc/static/js/2.e72904b4.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.cc697943.chunk.js": "/etherorcs-poc/static/js/3.cc697943.chunk.js",
     "static/js/3.cc697943.chunk.js.map": "/etherorcs-poc/static/js/3.cc697943.chunk.js.map",
     "index.html": "/etherorcs-poc/index.html",
-    "static/css/main.6d295eec.chunk.css.map": "/etherorcs-poc/static/css/main.6d295eec.chunk.css.map",
+    "static/css/main.7b608690.chunk.css.map": "/etherorcs-poc/static/css/main.7b608690.chunk.css.map",
     "static/js/2.e72904b4.chunk.js.LICENSE.txt": "/etherorcs-poc/static/js/2.e72904b4.chunk.js.LICENSE.txt",
     "static/media/Shop.png": "/etherorcs-poc/static/media/Shop.a06bc1fa.png",
     "static/media/App.css": "/etherorcs-poc/static/media/ZOMBIE.227a6f01.TTF",
@@ -21,7 +21,7 @@
     "static/media/dragons-lair.png": "/etherorcs-poc/static/media/dragons-lair.4237c65f.png",
     "static/media/dungeon.png": "/etherorcs-poc/static/media/dungeon.4fe94678.png",
     "static/media/etherorcs-dungeon.png": "/etherorcs-poc/static/media/etherorcs-dungeon.261b53f1.png",
-    "static/media/etherorcs-logo.png": "/etherorcs-poc/static/media/etherorcs-logo.01889159.png",
+    "static/media/etherorcs-logo.png": "/etherorcs-poc/static/media/etherorcs-logo.d8a3762c.png",
     "static/media/farm.png": "/etherorcs-poc/static/media/farm.ab6f4277.png",
     "static/media/logo.6ce24c58.svg": "/etherorcs-poc/static/media/logo.6ce24c58.svg",
     "static/media/medieval-training-yard.png": "/etherorcs-poc/static/media/medieval-training-yard.f9355df7.png",
@@ -43,7 +43,7 @@
   "entrypoints": [
     "static/js/runtime-main.b3426708.js",
     "static/js/2.e72904b4.chunk.js",
-    "static/css/main.6d295eec.chunk.css",
-    "static/js/main.770aef14.chunk.js"
+    "static/css/main.7b608690.chunk.css",
+    "static/js/main.ab0679ed.chunk.js"
   ]
 }
