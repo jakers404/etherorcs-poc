@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/etherorcs-poc/static/css/main.224f8729.chunk.css",
-    "main.js": "/etherorcs-poc/static/js/main.d746a326.chunk.js",
-    "main.js.map": "/etherorcs-poc/static/js/main.d746a326.chunk.js.map",
+    "main.js": "/etherorcs-poc/static/js/main.0cf10789.chunk.js",
+    "main.js.map": "/etherorcs-poc/static/js/main.0cf10789.chunk.js.map",
     "runtime-main.js": "/etherorcs-poc/static/js/runtime-main.b149295c.js",
     "runtime-main.js.map": "/etherorcs-poc/static/js/runtime-main.b149295c.js.map",
-    "static/js/2.f50b12bd.chunk.js": "/etherorcs-poc/static/js/2.f50b12bd.chunk.js",
-    "static/js/2.f50b12bd.chunk.js.map": "/etherorcs-poc/static/js/2.f50b12bd.chunk.js.map",
+    "static/js/2.4a78949b.chunk.js": "/etherorcs-poc/static/js/2.4a78949b.chunk.js",
+    "static/js/2.4a78949b.chunk.js.map": "/etherorcs-poc/static/js/2.4a78949b.chunk.js.map",
     "static/js/3.134a0029.chunk.js": "/etherorcs-poc/static/js/3.134a0029.chunk.js",
     "static/js/3.134a0029.chunk.js.map": "/etherorcs-poc/static/js/3.134a0029.chunk.js.map",
     "index.html": "/etherorcs-poc/index.html",
     "static/css/main.224f8729.chunk.css.map": "/etherorcs-poc/static/css/main.224f8729.chunk.css.map",
-    "static/js/2.f50b12bd.chunk.js.LICENSE.txt": "/etherorcs-poc/static/js/2.f50b12bd.chunk.js.LICENSE.txt",
+    "static/js/2.4a78949b.chunk.js.LICENSE.txt": "/etherorcs-poc/static/js/2.4a78949b.chunk.js.LICENSE.txt",
     "static/media/App.css": "/etherorcs-poc/static/media/ZOMBIE.227a6f01.TTF",
     "static/media/Shop.png": "/etherorcs-poc/static/media/Shop.a06bc1fa.png",
     "static/media/ancient-chamber.png": "/etherorcs-poc/static/media/ancient-chamber.435490b7.png",
@@ -42,8 +42,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.b149295c.js",
-    "static/js/2.f50b12bd.chunk.js",
+    "static/js/2.4a78949b.chunk.js",
     "static/css/main.224f8729.chunk.css",
-    "static/js/main.d746a326.chunk.js"
+    "static/js/main.0cf10789.chunk.js"
   ]
 }
